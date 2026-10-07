@@ -113,4 +113,4 @@ dsp-portfolio/
 ## 📧 Contact
 - Email: bdevisriprasad2004@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/devi-sri-prasad-3508702a0/?isSelfProfile=true
-- GitHub: github.com/bollidevisriprasad
+- GitHub: https://github.com/bollidevisriprasad/DSP-Protfolio
